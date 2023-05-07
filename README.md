@@ -7,3 +7,4 @@ De front-end code van de website is open source, welkom om de vertaling te helpe
 * [front-end code](https://github.com/xxai-art/web)
 * [Taalpakketten voor de site als geheel](https://github.com/xxai-art/web/tree/main/i18n)
 * [Taalpakketten voor inlogmodules](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Website Meertalige documentatie](https://github.com/xxai-doc)
